@@ -1,0 +1,5 @@
+#Write a python program to sum all the numbers in a list.
+def sum(*t):
+    print(sum(t))
+list=[0,2,90,5]   
+sum(*list) 
